@@ -1,0 +1,6 @@
+.Tilt{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background: linear-gradient(89deg, #abc022 0%, #04c8de 100%);
+}
